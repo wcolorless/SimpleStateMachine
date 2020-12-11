@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleStateMachine", "SimpleStateMachine\SimpleStateMachine.csproj", "{2BAAD234-0F1C-4B14-BBC5-7BF528F02FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStateMachine", "TestStateMachine\TestStateMachine.csproj", "{EF7DBDD2-E8CF-4E25-917C-F9E58F5ABA63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAAD234-0F1C-4B14-BBC5-7BF528F02FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAAD234-0F1C-4B14-BBC5-7BF528F02FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAAD234-0F1C-4B14-BBC5-7BF528F02FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAAD234-0F1C-4B14-BBC5-7BF528F02FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7DBDD2-E8CF-4E25-917C-F9E58F5ABA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7DBDD2-E8CF-4E25-917C-F9E58F5ABA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7DBDD2-E8CF-4E25-917C-F9E58F5ABA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7DBDD2-E8CF-4E25-917C-F9E58F5ABA63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70184E73-DA30-435C-AF58-A264282C2164}
+	EndGlobalSection
+EndGlobal
